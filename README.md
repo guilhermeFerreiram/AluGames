@@ -9,14 +9,20 @@
 <h2 align="center">🗂 Sumário</h2>
 <p align="center">
   <a href="#descricao">Descrição do projeto</a> &bull; 
-  <a href="#tecnologias">Tecnologias</a> &bull; 
+   <a href="#tecnicas">Técnicas utilizadas</a> &bull;
+   <a href="#tecnologias">Tecnologias</a> &bull; 
   <a href="#autor">Autor</a> &bull; 
   <a href="#licenca">Licença</a>
 </p>
 
 <h2 align="center" id="descricao">🗒 Descrição do projeto</h2>
-<p align="center">Neste projeto, a função alterarStatus(), é projetada para alterar o status de um jogo na interface do usuário. O código recebe um identificador (id) que é usado para acessar elementos específicos na página. Ao clicar no botão associado ao jogo, a função altera dinamicamente o status da imagem e do botão. Se a imagem contiver a classe "dashboard__item__img--rented", ela é removida, e o botão é atualizado para refletir o estado de "Alugar". Caso contrário, a classe é adicionada à imagem, o botão é ajustado para indicar "Devolver", e a interface é atualizada. O código utiliza manipulação do DOM e controle de eventos para implementar essa funcionalidade.</p>
+<p align="center">Neste projeto, a função alterarStatus(), é projetada para alterar o status de um jogo na interface do usuário. O código recebe um identificador (id) que é usado para acessar elementos específicos na página. Ao clicar no botão associado ao jogo, a função altera dinamicamente o status da imagem e do botão. Se a imagem contiver a classe "dashboard__item__img--rented", ela é removida, e o botão é atualizado para refletir o estado de "Alugar". Caso contrário, a classe é adicionada à imagem, o botão é ajustado para indicar "Devolver", e a interface é atualizada.</p>
 <blockquote> Projeto Concluído :heavy_check_mark:</blockquote>
+
+<h2 align="center" id="tecnicas">👨‍💻 Técnicas utilizadas</h2>
+<p align="center">
+Manipulação do DOM &bull; Controle de eventos
+</p>
 
 <h2 align="center" id="tecnologias">🖱 Tecnologias</h2>
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-323330?logo=html5"/> <img src="https://img.shields.io/badge/CSS3-323330?logo=css3"/></p>
